@@ -11,6 +11,8 @@ int main () {
 
     cout << "\nHasta aquí" << endl;
 
+    cout << "Funciona el programa\n" << endl ;
+
     char *b = (char * ) "hola";
 
     for (int i = 0; i < 4; i++) {
